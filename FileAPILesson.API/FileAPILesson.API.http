@@ -1,0 +1,6 @@
+@FileAPILesson.API_HostAddress = http://localhost:5237
+
+GET {{FileAPILesson.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
